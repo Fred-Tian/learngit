@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Greating a new branch is quick and simple.
 second time.
-Add new GitK.
+Add new haha Gitkraken.
 hahaha
